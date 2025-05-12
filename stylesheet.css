@@ -1,0 +1,32 @@
+﻿html {
+    background: #70B889;
+    color: #FBBFE6;
+    font-family: ;
+    font-size: ;
+}
+.smile {
+	width: 60px;
+	height: 60px;
+    position: absolute;
+    right: 100px;
+}
+.party {
+    width: 60px;
+	height: 60px;
+    position: absolute;
+    right: 180px;
+}
+.container {
+    border-style: dotted;
+    border-width: 2px;
+    border-color: #70B889;
+    width: 100px;
+}
+.nav {
+    text-align: center;
+    background: #907E94;
+}
+a {
+    text-decoration: none;
+    color: #70B889;
+}
