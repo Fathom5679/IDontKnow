@@ -1,0 +1,25 @@
+"name": "MyFirstWebsite",
+"short_name": "PersonalWeb",
+"start_url": "MyFirstWebsite.html",
+"display": "standalone",
+"background_color": "#70a791",
+"theme_color": "#70a791",
+"icons": [
+  {
+    "src": "gear.svg",
+    "sizes": "any",
+    "type": "image/svg+xml"
+  },
+  {
+   "src": "IMG_4273.PNG",
+    "sizes": "192x192",
+    "type": "image/png"
+  },
+  {
+     "src": "IMG_4273.PNG",
+    "sizes": "192x192",
+    "type": "image/png"
+  }
+]
+    
+    
